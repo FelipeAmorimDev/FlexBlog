@@ -19,8 +19,11 @@ flex: 1 1 170px;
 
 .section-sobre-container img:last-of-type{
  align-self: flex-start;
-}
 
+}
+.section-sobre-container img:first-of-type{
+margin-right: 40px;
+}
 .sobre-content{
   flex: 2 1 300px;
 }
@@ -36,9 +39,6 @@ flex: 1 1 170px;
   align-self: flex-start;
 } */
 
-#sobre1{
-  
-}
 
 @media (max-width:880px){
   .section-sobre-container{

@@ -3,6 +3,7 @@
 @import url("./components/typographies.css");
 @import url("./components/colors.css");
 @import url("./components/components.css");
+
 /* General */
 
 @import url("./generals/general.css");
@@ -11,3 +12,6 @@
 /* Sections Home */
 @import url("./home/main.css");
 @import url("./home/section-sobre.css");
+@import url("./home/section-produtos.css");
+@import url("./home/section-vantagens.css");
+@import url("./home/section-outras-vantagens.css");

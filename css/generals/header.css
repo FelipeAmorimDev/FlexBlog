@@ -23,9 +23,7 @@
 .nav-list{
   display: flex;
   gap: 20px;
- 
-  
-}
+ }
 
 .nav-list a:hover{
   color: var(--color-0);
