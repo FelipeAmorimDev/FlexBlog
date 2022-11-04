@@ -57,3 +57,9 @@ border-radius: 50%;
 display: block;
 }
 
+
+@media (max-width:600px){
+  .section-planos-container{
+  padding: 20px 10px;
+  }
+}
