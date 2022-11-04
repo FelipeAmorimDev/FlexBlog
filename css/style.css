@@ -8,6 +8,7 @@
 
 @import url("./generals/general.css");
 @import url("./generals/header.css");
+@import url("./generals/footer.css");
 
 /* Sections Home */
 @import url("./home/main.css");
