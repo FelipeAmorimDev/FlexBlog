@@ -2,10 +2,12 @@
 
 @import url("./components/typographies.css");
 @import url("./components/colors.css");
-
+@import url("./components/components.css");
 /* General */
 
 @import url("./generals/general.css");
-
+@import url("./generals/header.css");
 
 /* Sections Home */
+@import url("./home/main.css");
+@import url("./home/section-sobre.css");
