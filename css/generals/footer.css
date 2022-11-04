@@ -1,9 +1,9 @@
-.newsletter-bg{
+.newsletter-bg {
   background-color: var(--color-8);
   padding: 60px 0px;
 }
 
-.newsletter-container{
+.newsletter-container {
   display: flex;
   padding: 10px;
   flex-wrap: wrap;
@@ -12,25 +12,26 @@
   gap: 20px;
 }
 
-.newsletter-content{
+.newsletter-content {
   flex: 1 1 240px;
 }
 
-.newsletter-content p{
+.newsletter-content p {
   max-width: 30ch;
 }
 
-form{
+form {
   flex: 1 1 300px;
   display: flex;
   flex-wrap: wrap;
 }
 
-form input[type="submit"]{
+form input[type="submit"] {
   background-color: var(--color-1);
   flex: 1 1 auto;
 }
-form input[type="email"]{
+
+form input[type="email"] {
   flex: 1 1 auto;
   padding: 20px;
 }

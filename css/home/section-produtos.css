@@ -1,19 +1,19 @@
-.section-produtos-container{
+.section-produtos-container {
   padding: 60px 10px;
 }
 
-.produtos-list{
+.produtos-list {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   align-items: flex-end;
 }
 
-.produtos-item{
+.produtos-item {
   flex: 1 1 150px;
 }
 
-.produtos-item h3{
+.produtos-item h3 {
   padding: 60px 0px 60px 20px;
   background-color: var(--color-8);
 }
