@@ -1,0 +1,55 @@
+.outras-vantagens-list{
+  margin: 60px 38px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px 40px;
+}
+
+.outras-vantagens-item{
+  flex: 1 1 260px;
+}
+
+.outras-vantagens-item .roxo{
+  position: relative;
+}
+
+.outras-vantagens-item .roxo::before{
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height:32px;
+  background-color: var(--color-4);
+  top: 6px;
+  left: -20px;
+  position: absolute;
+}
+
+.outras-vantagens-item .pink{
+  position: relative;
+}
+
+.outras-vantagens-item .pink::before{
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height:32px;
+  background-color: var(--color-5);
+  top: 6px;
+  left: -20px;
+  position: absolute;
+}
+
+.outras-vantagens-item .cyan{
+  position: relative;
+}
+
+.outras-vantagens-item .cyan::before{
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height:32px;
+  background-color: var(--color-6);
+  top: 6px;
+  left: -20px;
+  position: absolute;
+}
