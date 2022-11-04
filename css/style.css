@@ -1,0 +1,11 @@
+/* Components */
+
+@import url("./components/typographies.css");
+@import url("./components/colors.css");
+
+/* General */
+
+@import url("./generals/general.css");
+
+
+/* Sections Home */
